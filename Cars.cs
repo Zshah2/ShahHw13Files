@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace CarRepairTracker
+namespace CarRepair
 {
     public class Car
     {
